@@ -1,4 +1,4 @@
 module.exports = {
-    secret: "bezkoder-secret-key"
+    secret: "ilyasabdut-secret-key"
   };
   
